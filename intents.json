@@ -79,6 +79,18 @@
         "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
         "What did the buffalo say when his son left for college? Bison."
       ]
+    },
+    {
+    "tag":"school",
+      "patterns":[
+        "What school do you go to?",
+        "Where do you go to school",
+        "Where do you study?"
+        ],
+      "responses":[
+        "I go to lotus Valley International School!",
+        "I go to lotus Valley, in gurugram
+        ]
     }
   ]
 }
